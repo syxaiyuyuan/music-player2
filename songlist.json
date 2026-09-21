@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "announcement": "✨ V1.0 版本上线\n欢迎使用播放器！\n目前收录2首示例音乐，后续持续更新歌曲。",
+  "songs": [
+    {
+      "name": "示例BGM1",
+      "url": "https://xxx/music/song1.mp3",
+      "cover": "https://xxx/cover1.jpg",
+      "lyric": []
+    },
+    {
+      "name": "示例BGM2",
+      "url": "https://xxx/music/song2.mp3",
+      "cover": "",
+      "lyric": []
+    }
+  ]
+}
